@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180">
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAi/hacking.gif" width="180">
 
 # 🌷 Ayla Medeiros 🌷
 
