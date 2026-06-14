@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="200"/>
 </p>
 
 # 🌷 Ayla Medeiros 🌷
