@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250"/>
+  <img src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif" width="250"/>
 </p>
 
 ╭─────────────────────୨୧─────────────────────╮
