@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="180"/>
+  <img src="https://media.tenor.com/LXGGFKbySdMAAAAi/computer-cat.gif" width="180"/>
 </p>
 
 # 🌷 Ayla Medeiros 🌷
