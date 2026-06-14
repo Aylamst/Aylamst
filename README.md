@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="250"/>
-</p>
-
 # 🌷 Ayla Medeiros 🌷
 
 ### 💻 front-end developer in progress
@@ -11,6 +7,8 @@
 ### 🎀 react • next.js • typescript
 
 *"turning coffee into code since 2024 ☕"*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F8A5C2&center=true&vCenter=true&width=500&lines=Building+cute+interfaces+%F0%9F%8C%B8;Turning+coffee+into+code+%E2%98%95;Always+learning+new+things+%E2%9C%A8"/>
 
 </div>
 
