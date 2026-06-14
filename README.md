@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media.tenor.com/LXGGFKbySdMAAAAi/computer-cat.gif" width="180"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAi/coding.gif" width="180"/>
 </p>
 
 # 🌷 Ayla Medeiros 🌷
