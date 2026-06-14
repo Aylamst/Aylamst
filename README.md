@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://media.tenor.com/NOYF3f82b_gAAAAi/programmer.gif" width="180">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="180"/>
+</p>
 
 # 🌷 Ayla Medeiros 🌷
 
