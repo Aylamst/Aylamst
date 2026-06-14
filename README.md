@@ -1,16 +1,101 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Aylamst/Aylamst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180">
 
-Here are some ideas to get you started:
+# 🌷 Ayla Medeiros 🌷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 front-end developer in progress
+
+### 🎀 react • next.js • typescript
+
+*"turning coffee into code since 2024 ☕"*
+
+</div>
+
+---
+
+## 🌸 about me
+
+```yaml
+name: Ayla Medeiros
+location: Paraíba, Brasil 🇧🇷
+
+education:
+  - ADS @ UNIFIP 🎓
+  - Técnico em Informática @ IFPB 💜
+
+currently:
+  - building web applications ✨
+  - learning new technologies 🌱
+  - trying not to break production 💀
+
+favorite_stack:
+  - React ⚛️
+  - Next.js ▲
+  - TypeScript 💙
+```
+
+---
+
+## ☕ experience
+
+🌷 Desenvolvedora do SIGEVI durante estágio na UNIFIP
+
+🌷 Desenvolvimento de aplicações web responsivas
+
+🌷 Integração com APIs REST
+
+🌷 Interfaces modernas focadas em experiência do usuário
+
+🌷 Desenvolvimento Front-End com React e Next.js
+
+---
+
+## 🎀 tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,php,cpp,django" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+</div>
+
+---
+
+## 🌱 currently learning
+
+* ✨ Software Architecture
+* ✨ Clean Code
+* ✨ Advanced Next.js
+* ✨ UI/UX Principles
+
+---
+
+## 💌 let's be friends
+
+<p align="center">
+<a href="www.linkedin.com/in/ayla-de-medeiros-santana-10b270379">linkedin</a> 🌷
+•
+<a href="https://github.com/Aylamst">github</a> 🌷
+•
+<a href="mailto:aylamedeirosGH@gmail.com">email</a>
+</p>
+
+---
+
+<div align="center">
+
+🌸 thanks for visiting my little corner of github 🌸
+
+</div>
