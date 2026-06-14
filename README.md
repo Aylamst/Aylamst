@@ -1,15 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F8A5C2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ayla+%F0%9F%8C%B8;Front-End+Developer+%F0%9F%92%BB;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%F0%9F%8E%80;Always+learning+something+new+%E2%9C%A8"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250"/>
+</p>
 
+╭─────────────────────୨୧─────────────────────╮
 
-# 🌷 Ayla Medeiros 🌷
+🌸 Ayla Medeiros 🌸
 
-### 💻 front-end developer in progress
+💻 Front-End Developer
 
-### 🎀 react • next.js • typescript
+☕ fueled by coffee and curiosity
 
-*"turning coffee into code since 2024 ☕"*
+🎀 React • Next.js • TypeScript
+
+╰─────────────────────୨୧─────────────────────╯
 
 </div>
 
