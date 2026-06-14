@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAi/coding.gif" width="180"/>
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250"/>
 </p>
 
 # 🌷 Ayla Medeiros 🌷
