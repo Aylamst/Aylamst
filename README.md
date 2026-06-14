@@ -91,13 +91,12 @@ favorite_stack:
 ## 💌 let's be friends
 
 <p align="center">
-<a href="www.linkedin.com/in/ayla-de-medeiros-santana-10b270379">linkedin</a> 🌷
-•
-<a href="https://github.com/Aylamst">github</a> 🌷
-•
-<a href="mailto:aylamedeirosGH@gmail.com">email</a>
+  <a href="https://www.linkedin.com/in/ayla-de-medeiros-santana-10b270379">linkedin</a> 🌷
+  •
+  <a href="https://github.com/Aylamst">github</a> 🌷
+  •
+  <a href="mailto:aylamedeirosGH@gmail.com">email</a>
 </p>
-
 ---
 
 <div align="center">
