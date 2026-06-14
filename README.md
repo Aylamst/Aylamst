@@ -97,6 +97,7 @@ favorite_stack:
   •
   <a href="mailto:aylamedeirosGH@gmail.com">email</a>
 </p>
+
 ---
 
 <div align="center">
