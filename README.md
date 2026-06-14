@@ -67,7 +67,7 @@ favorite_stack:
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" />
 
 </div>
 
